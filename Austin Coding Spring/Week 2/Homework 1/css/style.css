@@ -1,2 +1,11 @@
-h3{color:red;
+div.Intel{ background-color: blue; color: white;
+  
+}   
+a:link{color: white
+    
+}
+
+
+h2 {
+    width: 25; background-color: rbg(35, 52, 88); text-align: left;    
 }
