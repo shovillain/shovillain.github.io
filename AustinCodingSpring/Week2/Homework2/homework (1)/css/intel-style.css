@@ -1,0 +1,71 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+header, main, footer {
+    width: 1024px;
+    margin: auto;
+}
+
+header {
+    background-color: #0071c5;
+    padding: 10px;
+    color: white; 
+    
+}
+
+h1 {
+    font-weight: 200;
+    font-size: 30px;
+    color: #fff;
+}
+
+p{
+    font-size: 10px;
+    color: #555;  
+}
+
+
+nav{
+    color:  white;    
+    font-size: 15px;
+    margin-right: 15px;
+}
+
+h2 {
+    font-size: 15px;
+    font-weight: 10;
+    font-style: bold; 
+}
+
+h3 {
+    font-size: 15px;
+    font-weight: 100;
+}
+
+td {
+    font-size: 15px; 
+    
+    
+}
+main {
+    font-size: 60px;
+    color: #555;
+}
+aside {
+  background-color: lightgray;
+  padding-left: 10px;
+  padding: 15px;
+  margin-left: 15px:
+
+}
+body, html, {
+    background-color: #f3f3f3;
+    padding: 15px;
+}
+
+ ##.my-footer {
+    padding: 20px;
+}
+
