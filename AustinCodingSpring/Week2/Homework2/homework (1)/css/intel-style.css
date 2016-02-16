@@ -18,7 +18,7 @@ header {
 h1 {
     font-weight: 200;
     font-size: 30px;
-    color: #fff;
+    color: #000ff;
 }
 
 p{
@@ -57,7 +57,7 @@ aside {
   background-color: lightgray;
   padding-left: 10px;
   padding: 15px;
-  margin-left: 15px:
+  margin-left: 15px;
 
 }
 body, html, {
