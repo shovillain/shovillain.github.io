@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+html{ 
+    background-color: white
+
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    padding: 200px;
+}
+
+h2{
+    font-size: 15px;
+}
+.container{
+    background-image: url(/AustinCodingSpring/Week3/homework1/project/homework/img/nasa-background.jpg) ;
+    width: 850px;
+    height: 450px;
+}
+
+.parent-container{
+    border: 2px solid white;
+    background-color: lightgray;
+    height: 324px;       
+}
+
+       
+.child-container{
+    float: left;
+    width: 270px;
+    padding:  25px;   
+}
+
+p{
+    font-size: 15px; 
+    font-family: serif;
+    
+}
+.clearfix:after{
+    clear: both;
+    content: ".";
+    display: block;
+    height: 0;
+    line-height: 0;
+    visibility: hidden;
+}       
+    
+
+    
+
+
+    
+
