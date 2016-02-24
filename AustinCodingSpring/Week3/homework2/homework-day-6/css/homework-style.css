@@ -33,6 +33,7 @@ html{
 
 .left{
     float: left;
+    width: 180;
      
 }  
 #pics {
@@ -46,6 +47,7 @@ html{
     background-color: lightgray;
     clear: right;
     width: 180px;
+    padding: 30px;
     
 }
  
@@ -55,6 +57,7 @@ span{
     text-decoration: underline;
 
 }
+
 
 #bottom{
     float: right;
@@ -80,11 +83,14 @@ span{
 }
 
 .lt img{
-    height: 100px;    
-}    
+    height: 100px;
+   
+}       
+
 
 .desk img{
     height: 100px;
+    
 }
 
 .dow img{
