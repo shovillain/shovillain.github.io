@@ -31,9 +31,12 @@ html{
     
 }
 
-    
+.left{
+    float: left;
+     
+}  
 #pics {
-    float: right;
+    float: left;
 }    
 
 .lt {
@@ -41,24 +44,11 @@ html{
     margin-right: 20px;
     margin-bottom: 20px;
     background-color: lightgray;
-    float: right;
+    clear: right;
+    width: 180px;
     
 }
  
-.desk{
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-bottom: 20px;
-    float: right;
-    background-color: lightgray
-}
-.dow{
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-bottom: 20px;
-    float: right;
-    background-color: lightgray;  
-}
 
 span{
     color: green;
