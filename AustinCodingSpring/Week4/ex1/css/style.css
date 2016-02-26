@@ -4,7 +4,8 @@ p, h1, a {
 }
 
 .garden{
-    background-image: url("../img/1.jpg"); text-align: center;
+    background-image: url("../img/1.jpg"); 
+    text-align: center;
     line-height: 3;
     background-size: cover;
     
@@ -37,8 +38,8 @@ h1{
 #three {
     background-image: url("../img/featured-image-5.jpg");
     background-size: cover;
-    width: 68px;
-    float: left;
+/*    width: 68px;*/
+    float: right;
     margin-left: 2%;
 }
 
@@ -49,20 +50,26 @@ h1{
 }
 
 .opacity{
-   width: 100px;
+/*   width: 100px;*/
+    
+
 }
 
 .left{
     float: left;
-    width: 30px;
+/*    width: 100px;*/
+/*    height: 100px;*/
     
 }
-.clearfix{
-    
+.clearfix:after{
     clear: both;
     content: ".";
     display: block;
     height: 0;
     line-height: 0;
     visibility: hidden;   
+}
+.container{
+    width: 60%; 
+    
 }
