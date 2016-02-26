@@ -1,0 +1,68 @@
+p, h1, a {
+    font-family: sans-serif;
+    color: white;
+}
+
+.garden{
+    background-image: url("../img/1.jpg"); text-align: center;
+    line-height: 3;
+    background-size: cover;
+    
+}
+
+.spades{
+    text-transform: uppercase;
+}
+
+h1{
+    font-size: 40px;
+}
+
+.garden > div {
+    background-color: rgba(0,0,0, 0.5);
+    padding: 100px 0;
+}
+
+#one {
+    background-image: url("../img/featured-image-3.jpg");
+    background-size: cover;
+    
+}
+#two{
+    background-image: url("../img/featured-image-4.jpg");
+    background-size: cover;
+    margin-top: 8%;
+}
+
+#three {
+    background-image: url("../img/featured-image-5.jpg");
+    background-size: cover;
+    width: 68px;
+    float: left;
+    margin-left: 2%;
+}
+
+.opacity > div {
+    background-color: rgba(0,0,0, 0.5);
+    padding: 50px 20px;
+    
+}
+
+.opacity{
+   width: 100px;
+}
+
+.left{
+    float: left;
+    width: 30px;
+    
+}
+.clearfix{
+    
+    clear: both;
+    content: ".";
+    display: block;
+    height: 0;
+    line-height: 0;
+    visibility: hidden;   
+}
