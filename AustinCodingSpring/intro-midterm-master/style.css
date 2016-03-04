@@ -1,0 +1,30 @@
+h2{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+h1{
+    text-align: center;
+    
+}
+
+.pizza img{
+    
+    height: 300px;
+}
+
+p{
+    text-align: center;
+}
+.pics{
+    float: left;
+    padding: 30px;
+
+}
+
+.pics img{
+    height: 300px;
+}
+
+    
