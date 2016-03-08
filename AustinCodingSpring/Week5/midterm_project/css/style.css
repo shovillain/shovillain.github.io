@@ -1,6 +1,7 @@
 
 body{
-    font-family: 'Crete Round', sans-serif;    
+    font-family: 'Crete Round', sans-serif;  
+    
 }
 
 h1{
@@ -104,7 +105,7 @@ em{
     font-family: cursive;
 }
 
-clearfix:after{ 
+#clearfix:after{ 
     clear: both;
     content: ".";
     display: block;
@@ -140,6 +141,20 @@ clearfix:after{
 .two h4{
     font-family: cursive;
 }
+.last{
+    text-align: center;
+    font-style: italic;
+    color: red
     
+}
+.last h5{
+    font-family: cursive;
     
-
+}
+#bottom{
+    float: right;
+}
+#bottom {
+    background-image: url(../img/Ralph_Lauren_logo.jpg);
+    
+}
