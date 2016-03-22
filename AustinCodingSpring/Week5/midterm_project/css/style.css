@@ -154,8 +154,12 @@ em{
 }
 #bottom{
     float: right;
+    text-align: center;
+    padding: 100px;
 }
 #bottom {
     background-image: url(../img/Ralph_Lauren_logo.jpg);
+    background-size: cover;
+    height: 600px;
     
 }
