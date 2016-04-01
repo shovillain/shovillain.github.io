@@ -1,38 +1,12 @@
-.my_header{
-    
-    background-color: bisque;
-}
-li{
-    
-    display: inline-block;
-    text-decoration: none;
-    
-}
 
-.my_nav{
+
+
+nav{
     margin-top: 20px;
     margin-bottom: 20px;
-    background-color: darkseagreen;
+    font-family:'Indie Flower', cursive;
+    background-color: black;
     
 }
 
-.my_nav ul{
-    margin: 20px 0;
-    padding-left: 0;
-    
-}
 
-li a{
-    color: hotpink;
-    font-size: 18px;
-    margin-right: 15px; 
-}
-
-.my_content{
-    background-color: aqua;
-}
-.my_content{
-    background-color: aliceblue;
-}
-
-.my_content

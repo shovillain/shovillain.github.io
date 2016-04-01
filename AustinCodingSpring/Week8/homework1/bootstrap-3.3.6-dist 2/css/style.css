@@ -1,0 +1,22 @@
+#myCarousel {
+    max-height: 700px;
+    width: 700px;
+  
+}
+
+.carousel-caption {
+    top: 20%;
+}
+
+.carousel-caption h2 {
+    font-size: 40px;
+}
+
+
+.divider {
+    height:50px;
+}
+
+.four_items img{
+    height: 125px;
+}
