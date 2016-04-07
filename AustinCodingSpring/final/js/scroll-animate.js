@@ -6,7 +6,8 @@ $(document).ready(function () {
 
         if(verticalScroll >= 200) {
 
-            $('#services').addClass('animated zoomInDown');
+            $('#about').addClass('animated zoomInDown');
+             $('#services').addClass('animated zoomInLeft');
         }
 
     });
@@ -18,7 +19,7 @@ $(document).ready(function () {
 
         if(verticalScroll >= 600) {
 
-            $('#about').addClass('animated zoomInLeft');
+            $('#contact').addClass('animated zoomInRight');
         }
       console.log(verticalScroll);
     });
